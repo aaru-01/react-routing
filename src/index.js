@@ -17,7 +17,7 @@ function App() {
     case "/contact":
       return <Contact />
     default:
-      return <h1>Ye Path Galat Hai..</h1>
+      return <h1>Ye Path Galat Hai.....</h1>
   }
 }
 
